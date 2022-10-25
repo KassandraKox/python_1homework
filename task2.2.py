@@ -7,4 +7,5 @@ N = int(input('Введите число больше единицы: '))
 factorial_N = 1
 for i in range(1, N+1):
     factorial_N *= i
+
 print(factorial_N)
