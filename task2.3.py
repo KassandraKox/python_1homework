@@ -8,5 +8,6 @@
 num = int(input('Введите число: '))
 result = 0
 for i in range(1, num + 1):
-    result += ((1 + 1 / i)**i)    
+    result += ((1 + 1 / i)**i) 
+   
 print(result)
