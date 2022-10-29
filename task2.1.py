@@ -8,5 +8,4 @@ n = input('Введи число больше 0: ')
 sum_of_digit = 0
 for i in range(0, len(n)):
     sum_of_digit += int(n[i])
-    
 print(sum_of_digit)

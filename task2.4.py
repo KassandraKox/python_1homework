@@ -2,6 +2,7 @@
  [-N, N]. Найдите произведение элементов на указанных позициях. 
  Позиции хранятся в файле file.txt в одной строке одно число.'''
 
+
 from itertools import product
 from random import randint  # подключить модуль случайных чисел
 numbers = []
