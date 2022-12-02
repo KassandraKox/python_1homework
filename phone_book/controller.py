@@ -84,7 +84,7 @@ def export_contacts():
             save.write('\n]\n')
 
 
-#импорт справочника
+# импорт справочника
 def import_contacts():
     fname, mode = view.get_import_filename()
     if mode == '0':

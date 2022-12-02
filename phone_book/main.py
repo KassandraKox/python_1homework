@@ -1,5 +1,4 @@
-﻿
-import controller as c
+﻿import controller as c
 
 # точка запуска программы
 print('Программа работы с телефонным справочником')
