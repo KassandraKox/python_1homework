@@ -1,6 +1,5 @@
 import model
 
-
 def list_all(list_to_display = model.contacts):
     for i in list_to_display:
         print(f'Имя: {i["name"]}, \tтел: {i["phone"]}')
