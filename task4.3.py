@@ -8,7 +8,7 @@ N = random.randint(3, 10)
 
 lst = []
 for i in range(N):
-    lst.append(random.randint(0, 20))               # числа в массиве от до
+    lst.append(random.randint(0, 10))               # числа в массиве от до
 print(f'Сгенерирован список: {lst}')
 
 check_lst = []
